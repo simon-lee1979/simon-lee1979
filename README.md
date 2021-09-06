@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @simon-lee1979 (Simon). I'm from Indianapolis, IN, and currently living in South Korea
+- 👋 Hi, I’m Simon. I'm from Indianapolis, IN, and currently living in South Korea, working for a Saas Startup in Seoul.
 - 👀 I’m interested in JavaScript, React, Vue, three.js, NodeJS, Nest.js, WordPress
-- 🌱 I’m currently learning StoryBook, Nest.js
+- 🌱 I’m currently learning StoryBook, Nest.js, three.js, 
